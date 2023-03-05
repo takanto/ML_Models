@@ -6,6 +6,7 @@ This repo contains the notebooks with following machine learning models implemen
 2. LSTM&ANN for Sobriety Classification
 3. PCA&XGBoost on DIF dataset for Sobriety Classification
 4. CNN on FER2013 dataset for Emotion Classification
+(5. CNN GAN for 512 by 512 pixels images)
 
 These models are used in the projects (Bscchus (sobriety checker iOS app), MoodAI Telegram bot, and MoodAI iOS app)
 by training and converting the models above to .h5 and .tflite. Check them out too for detailed implementations!
